@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://github.com/v-cap/basics-of-computer-programming/blob/main/images/Horizontal_Cortado_Novo.png?raw=true">
+  <img src="images/Horizontal_Cortado_Novo.png">
 </div>
 
 
@@ -13,12 +13,12 @@
  - [MECA_1V](https://classroom.google.com/c/Njk3NzE2NzA3NTk2?cjc=brrwrfv)
 ---
 ## Semana 1
-1. [Responder formulário]
-2. [Programa da disciplina]
+1. [Responder formulário] - _Será disponibilizado em breve_
+2. [Programa da disciplina](content/EmentaProgramacaoBasica.pdf)
 3. Criar conta no [GitHub](https://github.com/)
 4. Solicitar [acesso de estudante via GitHub Educacion](https://github.com/education/students)
 5. Realizar curso [_Introduction to GitHub_](https://skills.github.com/) ([_GitHub Skills_](https://skills.github.com/))
 
 ## Semana 2
-1. [Fundamentos de algoritmos]
-2. [Exercícios]
+1. [Fundamentos de algoritmos] - _Será disponibilizado em breve_
+2. [Exercícios] - _Será disponibilizado em breve_
