@@ -16,7 +16,7 @@
 1. [Responder formulário] - _Será disponibilizado em breve_
 2. [Programa da disciplina](content/EmentaProgramacaoBasica.pdf)
 3. Criar conta no [GitHub](https://github.com/)
-4. Solicitar [acesso de estudante via GitHub Educacion](https://github.com/education/students)
+4. Solicitar [acesso de estudante via GitHub Education](https://github.com/education/students)
 5. Realizar curso [_Introduction to GitHub_](https://skills.github.com/) ([_GitHub Skills_](https://skills.github.com/))
 
 ## Semana 2
