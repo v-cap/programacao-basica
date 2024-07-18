@@ -5,7 +5,7 @@
 
 
 # Programação Básica 2024.1
-
+EITA! BAGUNCEI TUDO!
 #### Técnico Integrado em Mecatrônica
 ###### Profº.: [Victor Pimentel](https://github.com/v-cap)
 <!-- ###### Classrooms: 
