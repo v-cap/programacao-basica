@@ -8,9 +8,10 @@
 
 #### Técnico Integrado em Mecatrônica
 ###### Profº.: [Victor Pimentel](https://github.com/v-cap)
-###### Classrooms: 
+<!-- ###### Classrooms: 
  - [MECA_1M](https://classroom.google.com/c/Njg0ODQxNzQzOTQw?cjc=5bdy3lg)
  - [MECA_1V](https://classroom.google.com/c/Njk3NzE2NzA3NTk2?cjc=brrwrfv)
+ -->
 ---
 ## Semana 1
 1. [Responder formulário] - _Será disponibilizado em breve_
