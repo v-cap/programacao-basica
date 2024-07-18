@@ -2,23 +2,17 @@
 
 Aprender como usar o GitHub com cursos interativos projetados para iniciantes e profissionais experientes 
 
-Primeiro dia no GitHub 
+## Primeiro dia no GitHub 
 
-Introdução ao GitHub 
+## Introdução ao GitHub 
 
-Passo 1: Crie um ramo (branch) 
+### Passo 1: Crie um ramo (_branch_) 
 
-O GitHub é uma plataforma colaborativa que utiliza o Git para versionamento 
-
-Um repositório é um projeto contendo arquivos e pastas. Um repositório rastreia versões de arquivos e pastas. Sobre repositórios. 
-
-Um ramo (branch) é uma versão paralela do seu repositório. Por padrão, um repositório possui um ramo denominado ‘main’ que é considerado o ramo definitivo.  
-
-Criar ramos adicionais permite copiar o ramo ‘main’ do seu repositório e realizar alterações de forma segura sem alterar/atrapalhar/influenciar o ramo principal. 
-
-Os ramos são muito utilizados para se trabalhar em funcionalidades específicas sem afetar outras partes do projeto. 
-
-Sobre ramos (branches). 
+ - O GitHub é uma plataforma colaborativa que utiliza o [Git](https://git-scm.com/) para versionamento.
+ - Um repositório é um projeto contendo arquivos e pastas. Um repositório rastreia versões de arquivos e pastas. [Sobre repositórios](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories).
+ - Um ramo (_branch_) é uma versão paralela do seu repositório. Por padrão, um repositório possui um ramo denominado ‘_main_’ que é considerado o ramo definitivo.
+   - Criar ramos adicionais permite copiar o ramo ‘_main_’ do seu repositório e realizar alterações de forma segura, sem alterar/atrapalhar/influenciar o ramo principal.
+   - Os ramos são muito utilizados para se trabalhar em funcionalidades específicas sem afetar outras partes do projeto. [Sobre ramos (_branches_)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches).
 
 Um LEIAME (README) do perfil é essencialmente uma seção “Sobre mim” no seu perfil do GitHub onde você pode compartilhar informações sobre você mesmo sobre a comunidade. Sobre o LEIAME do perfil. 
 
