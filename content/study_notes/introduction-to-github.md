@@ -53,4 +53,4 @@ Aprender como usar o GitHub com cursos interativos projetados para iniciantes e 
 >  - Onde encontrar projetos para contribuir: [GitHub Explore](https://github.com/explore).
 >  - [Página de status do GitHub](https://www.githubstatus.com/).
 
-[^1]: Os conteúdos dessa nota de estudos foram traduzidos do curso <sub>Introduction to GitHub</sub>, disponível no portal [GitHub Skills](https://skills.github.com/).
+[^1]: Os conteúdos dessa nota de estudos foram traduzidos do curso [_Introduction to GitHub_](https://github.com/skills/introduction-to-github), disponível no portal [GitHub Skills](https://skills.github.com/).
