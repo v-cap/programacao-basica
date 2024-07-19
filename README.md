@@ -18,7 +18,9 @@
 2. [Programa da disciplina](content/EmentaProgramacaoBasica.pdf)
 3. Criar conta no [GitHub](https://github.com/)
 4. Solicitar [acesso de estudante via GitHub Education](https://github.com/education/students)
-5. Realizar curso [_Introduction to GitHub_](https://skills.github.com/) ([_GitHub Skills_](https://skills.github.com/))
+5. Realizar curso [_Introduction to GitHub_](https://github.com/skills/introduction-to-github) ([_GitHub Skills_](https://skills.github.com/))
+> [!TIP]
+> Algumas [notas de estudo sobre o curso _Introduction to GitHub_](/content/study_notes/introduction-to-github.md).
 
 ## Semana 2
 1. [Fundamentos de algoritmos] - _Será disponibilizado em breve_
