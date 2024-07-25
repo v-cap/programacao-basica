@@ -13,7 +13,7 @@
  - [MECA_1V](https://classroom.google.com/c/Njk3NzE2NzA3NTk2?cjc=brrwrfv)
  -->
 ---
-## Semana 1
+## Semanas 1 e 2
 1. [Responder formulário] - _Será disponibilizado em breve_
 2. [Programa da disciplina](content/EmentaProgramacaoBasica.pdf)
 3. Criar conta no [GitHub](https://github.com/)
@@ -24,6 +24,6 @@
 > 
 > Material complementar: [Introdução ao GitHub no Microsoft Learn](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github/)
 
-## Semana 2
+## Semana 3
 1. [Fundamentos de algoritmos] - _Será disponibilizado em breve_
 2. [Exercícios] - _Será disponibilizado em breve_
