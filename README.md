@@ -19,8 +19,9 @@
 3. Criar conta no [GitHub](https://github.com/)
 4. Solicitar [acesso de estudante via GitHub Education](https://github.com/education/students)
 5. Realizar curso [_Introduction to GitHub_](https://github.com/skills/introduction-to-github) ([_GitHub Skills_](https://skills.github.com/))
-> [!TIP]
+> [!NOTE]
 > Algumas [notas de estudo sobre o curso _Introduction to GitHub_](/content/study_notes/introduction-to-github.md).
+> Material complementar: [Introdução ao GitHub no Microsoft Learn](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github/)
 
 ## Semana 2
 1. [Fundamentos de algoritmos] - _Será disponibilizado em breve_
