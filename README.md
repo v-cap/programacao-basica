@@ -14,7 +14,7 @@
  -->
 ---
 ## Semanas 1 e 2
-1. [Responder formulário] - _Será disponibilizado em breve_
+1. [Formulário inicial: Conhecendo melhor a turma!](https://forms.gle/gGJjvnn5cSFPbcWE8)
 2. [Programa da disciplina](content/EmentaProgramacaoBasica.pdf)
 3. Criar conta no [GitHub](https://github.com/)
 4. Solicitar [acesso de estudante via GitHub Education](https://github.com/education/students)
