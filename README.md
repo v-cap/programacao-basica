@@ -17,10 +17,13 @@
 1. [Formulário inicial: Conhecendo melhor a turma!](https://forms.gle/gGJjvnn5cSFPbcWE8)
 2. [Programa da disciplina](content/EmentaProgramacaoBasica.pdf)
 ### Atividade 1: Introdução ao GitHub
-4. Criar conta no [GitHub](https://github.com/)
-5. Solicitar [acesso de estudante via GitHub Education](https://github.com/education/students)
-6. Realizar curso [_Introduction to GitHub_](https://github.com/skills/introduction-to-github) ([_GitHub Skills_](https://skills.github.com/))
+1. Criar conta no [GitHub](https://github.com/)
+2. Solicitar [acesso de estudante via GitHub Education](https://github.com/education/students)
+3. Realizar curso [_Introduction to GitHub_](https://github.com/skills/introduction-to-github) ([_GitHub Skills_](https://skills.github.com/))
 > [!NOTE]
+> **Para iniciar o curso _Introduction to GitHub_ não é necessário aguardar a aprovação pelo GitHub Education.
+> Então, mãos à obra!**
+> 
 > Algumas [notas de estudo sobre o curso _Introduction to GitHub_](/content/study_notes/introduction-to-github-notes.md).
 > 
 > Material complementar: [Introdução ao GitHub no Microsoft Learn](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github/)
