@@ -16,9 +16,10 @@
 ## Boas vindas e preparação para a disciplina
 1. [Formulário inicial: Conhecendo melhor a turma!](https://forms.gle/gGJjvnn5cSFPbcWE8)
 2. [Programa da disciplina](content/EmentaProgramacaoBasica.pdf)
-3. Criar conta no [GitHub](https://github.com/)
-4. Solicitar [acesso de estudante via GitHub Education](https://github.com/education/students)
-5. Realizar curso [_Introduction to GitHub_](https://github.com/skills/introduction-to-github) ([_GitHub Skills_](https://skills.github.com/))
+### Atividade 1: Introdução ao GitHub
+4. Criar conta no [GitHub](https://github.com/)
+5. Solicitar [acesso de estudante via GitHub Education](https://github.com/education/students)
+6. Realizar curso [_Introduction to GitHub_](https://github.com/skills/introduction-to-github) ([_GitHub Skills_](https://skills.github.com/))
 > [!NOTE]
 > Algumas [notas de estudo sobre o curso _Introduction to GitHub_](/content/study_notes/introduction-to-github-notes.md).
 > 
