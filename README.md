@@ -13,7 +13,7 @@
  - [MECA_1V](https://classroom.google.com/c/Njk3NzE2NzA3NTk2?cjc=brrwrfv)
  -->
 ---
-## Boas vindas e preparação para a disciplina
+## 1. Boas vindas e preparação para a disciplina
 1. [Formulário inicial: Conhecendo melhor a turma!](https://forms.gle/gGJjvnn5cSFPbcWE8)
 2. [Programa da disciplina](content/EmentaProgramacaoBasica.pdf)
 ### Atividade 1: Introdução ao GitHub
@@ -29,6 +29,6 @@
 > 
 > Material complementar: [Introdução ao GitHub no Microsoft Learn](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github/)
 
-## Fundamentos de algoritmos
+## 2. Fundamentos de algoritmos
 1. [Fundamentos de algoritmos] - _Será disponibilizado em breve_
 2. [Exercícios] - _Será disponibilizado em breve_
