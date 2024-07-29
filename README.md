@@ -21,8 +21,9 @@
 2. Solicitar [acesso de estudante via GitHub Education](https://github.com/education/students)
 3. Realizar curso [_Introduction to GitHub_](https://github.com/skills/introduction-to-github) ([_GitHub Skills_](https://skills.github.com/))
 > [!NOTE]
-> **Para iniciar o curso _Introduction to GitHub_ não é necessário aguardar a aprovação pelo GitHub Education.
-> Então, mãos à obra!**
+> **Para iniciar o curso _Introduction to GitHub_ não é necessário aguardar a aprovação pelo GitHub Education.**
+> 
+> **Então, mãos à obra!**
 > 
 > Algumas [notas de estudo sobre o curso _Introduction to GitHub_](/content/study_notes/introduction-to-github-notes.md).
 > 
