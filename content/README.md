@@ -1,1 +1,1 @@
-### Pastas organizadas com materiais e conteúdos da disciplina
+### Pastas organizadas com materiais e conteúdos da disciplina.
