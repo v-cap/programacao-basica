@@ -4,7 +4,7 @@
 </div>
 
 
-# Programação Básica 2024.1
+# Programação Básica
 
 #### Técnico Integrado em Mecatrônica
 ###### Profº.: [Victor Pimentel](https://github.com/v-cap)
