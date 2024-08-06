@@ -27,7 +27,7 @@
 > 
 > Algumas [notas de estudo sobre o curso _Introduction to GitHub_](/content/study_notes/introduction-to-github-notes.md).
 > 
-> Material complementar: [Introdução ao GitHub no Microsoft Learn](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github/)
+> Material complementar: [Introdução ao GitHub no Microsoft Learn](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github/).
 
 ## 2. Fundamentos de algoritmos
 1. [Fundamentos de algoritmos] - _Será disponibilizado em breve_
