@@ -20,18 +20,21 @@ Para iniciar, é possível criar um _codespace_ a partir de um modelo, ou a part
    - Utilizar o VSCode para desenvolver código.
    - Personalizar o _codespace_ com imagens customizadas.
    - Gerenciar o _codespace_.
- - Para inicar um _codespace_:
+ - Para inicar um _codespace_ no ramo principal do repositório:
    - Na página inicial do repositório, clicar no botão verde `<> Code`.
    - Depois, clicar na aba codespace, e no botão `Criar codespace em main`.
+
+### Passo 2: Adicionar uma imagem customizada ao _codespace_:
+ - É possível configurar um _container_ de desenvolvimento para um repositório de modo que qualquer _codespace_ criado para o referido repositório gerará um ambiente de desenvolvimento sob medida e completo com todas as ferramentas e ambientes de execução (_runtimes_) necessários para se trabalhar num projeto específico.
+ - _Conteineres_ de desenvolvimentop, ou _dev containers_, são _containers_ Docker especificamente configurados para prover um ambiente de desenvolvimento completo
+  - Quando trabalhando em um _codespace_, estamos utilizando um _dev container_ instalado e configurado numa máquina virtual.
+ - Um arquivo _dev container_ é um arquivo JSON que permite que sejam customizadas a imagem padrão que executa o _codespace_ e as configurações do VSCode. Permite ainda que se execute código customizado, se realize encaminhamento de portas (_forward ports_), e muito mais.
+ - Para adicionar um arquivo `devcontainer.json` e uma imagem customizada a um repositório, siga as orientações apresentadas no __passo 2__ do curso [_Code with Codespaces_](https://github.com/skills/code-with-codespaces).
+ - Uma lista de imagens disponíveis pode ser encontrada no repositório [devcontainers](https://github.com/devcontainers).
+ - Mais informações sobre _dev containers_ podem ser encontradas em [_Introduction to dev containers_](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers).
    
 
-<!-- ### Passo 2: Envie alterações (commit) de um arquivo 
- - Ter criado o ramo permite editar seu projeto sem alterar o ramo principal.
- - Uma submissão (_commit_) é um conjunto de alterações realizadas em arquivos e pastas de seu projeto.
- - Um _commit_ existe para um ramo específico. [Sobre commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits).
- - Atividade: Seu primeiro _commit_.
-  - Passos para se enviar alterações ao GitHub:
-  - Adicionar um arquivo ao novo ramo.
+<!-- 
 > [!NOTE]
 >  - `.md` é uma extensão que cria um arquivo [_Markdown_](https://www.markdownguide.org/). [Sobre _Markdown_](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 >  - [Curso comunicando-se com _Markdown_](https://github.com/skills/communicate-using-markdown). 
