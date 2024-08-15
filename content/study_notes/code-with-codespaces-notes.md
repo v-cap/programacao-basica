@@ -32,38 +32,27 @@ Para iniciar, é possível criar um _codespace_ a partir de um modelo, ou a part
  - Para adicionar um arquivo `devcontainer.json` e uma imagem customizada a um repositório, siga as orientações apresentadas no __passo 2__ do curso [_Code with Codespaces_](https://github.com/skills/code-with-codespaces).
  - Uma lista de imagens disponíveis pode ser encontrada no repositório [devcontainers](https://github.com/devcontainers).
  - Mais informações sobre _dev containers_ podem ser encontradas em [_Introduction to dev containers_](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers).
-   
 
-<!-- 
-> [!NOTE]
->  - `.md` é uma extensão que cria um arquivo [_Markdown_](https://www.markdownguide.org/). [Sobre _Markdown_](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
->  - [Curso comunicando-se com _Markdown_](https://github.com/skills/communicate-using-markdown). 
- - Nos _commits_ é possível inserir uma mensagem curta que descreve quais alterações foram realizadas. Essa mensagem ajuda outras pessoas a saber o que foi incluído no _commit_.
+### Passo 3: Customizando o _codespace_:
+ - É possível customizar o codespace adicionando extensões e recursos do VSCode, configurando os requisitos do sistema hospedeiro, etc.
+ - Isso é feito através do arquivo 'devconteiner.json'.
 
-### Passo 3: Abra uma solicitação _pull_ (_pull request_) 
- - A colaboração acontece numa solicitação _pull_. Ela exibe as alterações no seu ramo para as outras pessoas e lhes permite aceitar, rejeitar, ou sugerir mudanças adicionais ao ramo.
- - A solicitação _pull_ mantem as mudanças realizadas num ramo e propõe aplicá-las ao ramo _main_. [Sobre solicitações pull](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
- - Atividade: Crie uma solicitação pull.
-  - Para criar uma requisição _pull_ automaticamente, clicar em `Compare and pull request`.
-  - Para configurar uma requisição _pull_ manualmente:
-    - Clicar na aba _pull requests_.
-    - Clicar em _New pull request_.
-    - Assegurar que o ramo _main_ está selecionado na _droplist_ base.
-    - Na _droplist_ compare selecionar `my-first-branch`.
-    - Clicar criar requisição _pull_.
-    - Insira um título para a requisição _pull_.
-
-### Passo 4: Mescle (_merge_) sua solicitação _pull_
- - Um _merge_ adiciona as mudanças da sua solicitação _pull_ e de um ramo secundário ao seu ramo _main_. [Sobre merges](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request).
- - Atividade: mescle a solicitação pull.
+### Passo 4: Personalizar o _codespace_:
+ - Ao se utilizar um ambiente de desenvolvimento é importante que se customize configurações e ferramentas para suas preferências e fluxos de trabalho (_workflows_).
+ - O GitHub _codespaces_ oferece duas formas principais de se personalizar o codespace:
+  - _Settings sync_ com o VSCode
+  - _dotfiles_
+ - _Dotfiles_ são arquivos e pastas num sistema Unix iniciando com ".", que controlam a configuração de aplicações e _shells_ do sistema. É possível armazenar e gerenciar os _dotfiles_ num repositório GitHub.
+ - Habilitar um _dotfile_ para o _codespace_
+ - Adicionar um _dotfile_ ao repositório e executá-lo no _codespace_.
 
 ### Finalizado!
 >[!IMPORTANT]
 > Recursos para aprender mais e se desenvolver!!
->  - Para estudantes: [Student Developer Pack](https://education.github.com/pack).
->  - Cursos do [GitHub Skills](https://github.com/skills).
->  - [Documentos para iniciar no GitHub](https://docs.github.com/en/get-started).
->  - Onde encontrar projetos para contribuir: [GitHub Explore](https://github.com/explore).
->  - [Página de status do GitHub](https://www.githubstatus.com/). -->
+>  - [Desenvolvendo num _codespace_](https://docs.github.com/en/codespaces/developing-in-codespaces/developing-in-a-codespace) - Aprenda como apagar um codespace, abrir um codespace existente, conectar a uma rede privada, encaminhar portas, e mais.
+>  - [Configure seu repositório](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/introduction-to-dev-containers) - Aprenda como configurar especificações mínimas de máquina para um _codespace_, adicionar _badges_, configurar um repositório _template_, e mais.
+>  - [Personalize o GitHub _codespaces_](https://docs.github.com/en/codespaces/customizing-your-codespace/personalizing-github-codespaces-for-your-account) - Aprenda como configurar sincronização para seu _codespace_, acrescentar _dotfiles_, configurar região padrão, configurar editor padrão, e mais.
+>  - [Faça um _prebuild_ do seu _codespace_](https://docs.github.com/en/codespaces/prebuilding-your-codespaces/about-github-codespaces-prebuilds).
+>  - [Gerencie seu _codespace_](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/enabling-github-codespaces-for-your-organization).
 
 [^1]: Os conteúdos dessa nota de estudos foram traduzidos do curso [_Code with Codespaces_](https://github.com/skills/code-with-codespaces), disponível no portal [GitHub Skills](https://skills.github.com/).
