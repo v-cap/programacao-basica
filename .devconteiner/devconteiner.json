@@ -1,0 +1,12 @@
+{
+    // Name this configuration
+    "name": "Codespace for Basics Programming!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+                // "cpp"
+            ]
+        }
+    }
+}
